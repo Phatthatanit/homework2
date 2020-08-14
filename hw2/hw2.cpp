@@ -18,4 +18,4 @@ int main() {
 		printf("\ntex : 0");
 		printf("\n%s have total money : %ld ", name,money);
 	}
-}
+} 
